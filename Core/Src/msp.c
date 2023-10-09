@@ -1,6 +1,3 @@
-
-
-
 #include "main_app.h"
 
 void HAL_MspInit(void)

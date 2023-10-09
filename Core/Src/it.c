@@ -1,5 +1,3 @@
-
-
 #include "main_app.h"
 
 extern UART_HandleTypeDef huart2;
