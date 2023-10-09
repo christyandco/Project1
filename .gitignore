@@ -1,0 +1,9 @@
+# STM32CubeIDE
+.settings/
+.project
+cubemx.ioc
+
+# Compiled Output
+Debug/
+Release/
+SW4STM32/
